@@ -1,0 +1,12 @@
+C:\Users\IMMORTAL\source\repos\Practice\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+C:\Users\IMMORTAL\source\repos\Practice\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+C:\Users\IMMORTAL\source\repos\Practice\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+C:\Users\IMMORTAL\source\repos\Practice\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+C:\Users\IMMORTAL\source\repos\Practice\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+C:\Users\IMMORTAL\source\repos\Practice\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\IMMORTAL\source\repos\Practice\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\Users\IMMORTAL\source\repos\Practice\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+C:\Users\IMMORTAL\source\repos\Practice\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+C:\Users\IMMORTAL\source\repos\Practice\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+C:\Users\IMMORTAL\source\repos\Practice\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\IMMORTAL\source\repos\Practice\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\obj\Debug\netcoreapp3.1\Navigator.AssemblyInfoInputs.cache
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\obj\Debug\netcoreapp3.1\Navigator.AssemblyInfo.cs
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\obj\Debug\netcoreapp3.1\Navigator.csproj.CoreCompileInputs.cache
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\bin\Debug\netcoreapp3.1\Navigator.exe
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\bin\Debug\netcoreapp3.1\Navigator.deps.json
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\bin\Debug\netcoreapp3.1\Navigator.runtimeconfig.json
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\bin\Debug\netcoreapp3.1\Navigator.runtimeconfig.dev.json
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\bin\Debug\netcoreapp3.1\Navigator.dll
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\bin\Debug\netcoreapp3.1\Navigator.pdb
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\obj\Debug\netcoreapp3.1\Navigator.dll
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\obj\Debug\netcoreapp3.1\Navigator.pdb
+C:\Users\IMMORTAL\source\repos\Practice\Navigator\obj\Debug\netcoreapp3.1\Navigator.genruntimeconfig.cache
