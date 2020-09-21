@@ -1,0 +1,13 @@
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\bin\Debug\netcoreapp3.1\Adapter-Task.exe
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\bin\Debug\netcoreapp3.1\Adapter-Task.deps.json
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\bin\Debug\netcoreapp3.1\Adapter-Task.runtimeconfig.json
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\bin\Debug\netcoreapp3.1\Adapter-Task.runtimeconfig.dev.json
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\bin\Debug\netcoreapp3.1\Adapter-Task.dll
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\bin\Debug\netcoreapp3.1\Adapter-Task.pdb
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\obj\Debug\netcoreapp3.1\Adapter-Task.csprojAssemblyReference.cache
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\obj\Debug\netcoreapp3.1\Adapter-Task.AssemblyInfoInputs.cache
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\obj\Debug\netcoreapp3.1\Adapter-Task.AssemblyInfo.cs
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\obj\Debug\netcoreapp3.1\Adapter-Task.csproj.CoreCompileInputs.cache
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\obj\Debug\netcoreapp3.1\Adapter-Task.dll
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\obj\Debug\netcoreapp3.1\Adapter-Task.pdb
+C:\Users\IMMORTAL\source\repos\Practice\Adapter-Task\obj\Debug\netcoreapp3.1\Adapter-Task.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\bin\Debug\netcoreapp3.1\TemplatePaying.exe
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\bin\Debug\netcoreapp3.1\TemplatePaying.deps.json
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\bin\Debug\netcoreapp3.1\TemplatePaying.runtimeconfig.json
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\bin\Debug\netcoreapp3.1\TemplatePaying.runtimeconfig.dev.json
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\bin\Debug\netcoreapp3.1\TemplatePaying.dll
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\bin\Debug\netcoreapp3.1\TemplatePaying.pdb
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\obj\Debug\netcoreapp3.1\TemplatePaying.AssemblyInfoInputs.cache
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\obj\Debug\netcoreapp3.1\TemplatePaying.AssemblyInfo.cs
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\obj\Debug\netcoreapp3.1\TemplatePaying.csproj.CoreCompileInputs.cache
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\obj\Debug\netcoreapp3.1\TemplatePaying.dll
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\obj\Debug\netcoreapp3.1\TemplatePaying.pdb
+C:\Users\IMMORTAL\source\repos\Practice\TemplatePaying\obj\Debug\netcoreapp3.1\TemplatePaying.genruntimeconfig.cache
