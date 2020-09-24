@@ -1,0 +1,12 @@
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\bin\Debug\netcoreapp3.1\Unified State System of Entrants.deps.json
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\bin\Debug\netcoreapp3.1\Unified State System of Entrants.dll
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\obj\Debug\netcoreapp3.1\Unified State System of Entrants.AssemblyInfoInputs.cache
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\obj\Debug\netcoreapp3.1\Unified State System of Entrants.AssemblyInfo.cs
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\bin\Debug\netcoreapp3.1\Unified State System of Entrants.pdb
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\obj\Debug\netcoreapp3.1\Unified State System of Entrants.dll
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\obj\Debug\netcoreapp3.1\Unified State System of Entrants.pdb
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\bin\Debug\netcoreapp3.1\Unified State System of Entrants.runtimeconfig.json
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\bin\Debug\netcoreapp3.1\Unified State System of Entrants.runtimeconfig.dev.json
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\obj\Debug\netcoreapp3.1\Unified State System of Entrants.genruntimeconfig.cache
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\obj\Debug\netcoreapp3.1\Unified State System of Entrants.csproj.CoreCompileInputs.cache
+C:\Users\IMMORTAL\source\repos\Unified State System of Entrants\Unified State System of Entrants\obj\Debug\netcoreapp3.1\Unified State System of Entrants.csprojAssemblyReference.cache
